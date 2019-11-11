@@ -1,0 +1,25 @@
+canvas {
+  border: 5px solid black;
+  margin-right: 10px;
+  background-color: green;
+}
+
+.canvas {
+  display:flex;
+}
+
+#info {
+  margin:100px;
+  width: 300px;
+  background-color: gray;
+  border: 5px solid black;
+  border-radius: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  height: 300px;
+}
+
+body {
+  background-color: gray;
+  font-family: sans-serif;
+}
